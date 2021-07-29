@@ -5,3 +5,13 @@ Complete project is divided into three different Modules and those are:
 
 Frontend and backend are loosely coupled i.e both are independent of each other.
 Communication between the frontend and backend is taking place with the help of API’s.
+
+Frontend layer is the user interface layer from which the user can interact with the server and do the required function.
+
+For this demo frontend is running on the local server provided by the vs code editor itself.
+
+Frontend folder contains two folders and those are HTML,JS. HTML folder contains all the html pages that is displayed to the user.
+
+Backend contains the mysql server which run the server at localhost port 3306.
+
+Mysql database has been connected with backend using all the credentials.
